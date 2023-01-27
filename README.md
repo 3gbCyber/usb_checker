@@ -1,7 +1,7 @@
 
 # USB CHECKER
 
-The script helps to find all *.exe or any format you looking for in USB drivers
+The script helps to find all *.exe or any format you looking for in USB drives
 In the scripts I put 3 formats (*.exe, *.dll, *.bat)
 
 But you can change it and write in format you want to look for from line 10
